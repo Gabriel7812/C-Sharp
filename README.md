@@ -1,4 +1,4 @@
-✡️C#sharp
+✡️C#
 
 
 ⚜️🖥️ C# and Object Orientation and projects carried out in courses.
